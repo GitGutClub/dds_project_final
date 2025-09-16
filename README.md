@@ -142,7 +142,7 @@ docker exec -it dds_backend python manage.py migrate
 
 * Добавить авторизацию (JWT или session).
 * Возможность редактирования записей через фронтенд.
-* Перейти на PostgreSQL (если используется SQLite).
+* Перейти на PostgreSQL (используется SQLite).
 * Написать тесты (pytest + DRF test client).
 
 ---
